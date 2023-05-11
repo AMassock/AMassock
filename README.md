@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![EmberJS](https://img.shields.io/badge/-EmberJS-000?style=for-the-badge&logo=EmberJS)
+![EmberJS](https://img.shields.io/badge/-EmberdotJS-000?style=for-the-badge&logo=EmberdotJS)
 
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 
 #### Web Hosting
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 
 #### CI/CD
 ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
@@ -74,6 +75,7 @@ Here are some ideas to get you started:
 #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
+![Pipenv](https://img.shields.io/badge/-pipenv-000?style=for-the-badge&logo=pipenv)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
