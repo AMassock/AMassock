@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![EmberJS](https://img.shields.io/badge/-EmberdotJS-000?style=for-the-badge&logo=EmberdotJS)
+![EmberJS](https://img.shields.io/badge/-EmberJS-000?style=for-the-badge&logo=EmberdotJS)
 
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
