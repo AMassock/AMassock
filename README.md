@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <p align="center">I love creating new things ⚡</p>
 
 - 🔭 I’m currently working on ...
-  - Keep Accountable, a website that presents congress activities in an easily digestible format.
+  - looking for my next project
   
 - 🌱 I’m currently learning ...
-  - Full Stack Engineering at General Assembly
+  - NextJS
 
 
 <details>
