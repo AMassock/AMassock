@@ -97,9 +97,10 @@ Here are some ideas to get you started:
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=amassock&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
+<!-- 
 ## Latest Tweet 🐦  
 [![](https://gtce.itsvg.in/api?username=Debug_Diaries&theme=dracula&response=true&border=true&time=true&icon=default)](https://github.com/amassock/github-twitter-card-embed)
-
+-->
 
 ### Thanks for Visiting my GitHub Profile!
 
