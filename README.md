@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
   - looking for my next project
+  - 365 days of code
   
 - 🌱 I’m currently learning ...
   - NextJS
